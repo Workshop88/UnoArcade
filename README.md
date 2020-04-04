@@ -28,3 +28,19 @@ The projects rely on [HoodLoader2](https://github.com/NicoHood/HoodLoader2) to g
 
 To learn more about USB HID (Human Interface Device) descriptors, check out [*ELECCELERATOR*'s excellent tutorial page]( https://eleccelerator.com/tutorial-about-usb-hid-report-descriptors/)
 
+-----
+
+![My arcade cabinets](https://github.com/Workshop88/UnoArcade/blob/master/images/IMG_0115.JPG) The finished console working!
+
+| Parts & Assembly | |
+:-:|:-:
+|![My arcade cabinets](https://github.com/Workshop88/UnoArcade/blob/master/images/IMG_0039.JPG) Decker helping install buttons | ![My arcade cabinets](https://github.com/Workshop88/UnoArcade/blob/master/images/IMG_0040.JPG) Switches|
+|![My arcade cabinets](https://github.com/Workshop88/UnoArcade/blob/master/images/IMG_0041.JPG) Joysticks | ![My arcade cabinets](https://github.com/Workshop88/UnoArcade/blob/master/images/IMG_0042.JPG) Trackball (with spare ball) |
+|![My arcade cabinets](https://github.com/Workshop88/UnoArcade/blob/master/images/IMG_0038.JPG) Testing the Happ trackball wiring on the scope | ![My arcade cabinets](https://github.com/Workshop88/UnoArcade/blob/master/images/IMG_0089.JPG) Two Arduino UNO's installed and wired, one for the trackball, and one for the keyboard control.|
+
+
+![My arcade cabinets](https://github.com/Workshop88/UnoArcade/blob/master/images/IMG_1940.JPG) My coin op cabinets (left to right: custom cocktail cabinet, Happy Fun Box MK3 rebuild, working 1/3 scale replica of Happy Fun Box
+
+![My arcade cabinets](https://github.com/Workshop88/UnoArcade/blob/master/images/IMG_0044.JPG) Happy Fun Box, my first and favorite
+
+
