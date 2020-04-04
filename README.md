@@ -1,3 +1,4 @@
+# :space_invader: :trackball: :space_invader:	:keyboard: :space_invader: :joystick: :space_invader: :computer_mouse: :space_invader:
 # UnoArcade
 #### by D. Scott Williamson
 
@@ -13,6 +14,8 @@ UnoArcade contains two projects in four arduino sketches that can turn an Arduin
 
 See source files for pin usage and specific instructions.
 
+-----
+
 The projects rely on [HoodLoader2](https://github.com/NicoHood/HoodLoader2) to give the Arduino UNO the ability to be a USB HID device.
 
 ### Arduino UNO HoodLoader2 setup Instructions:
@@ -21,5 +24,4 @@ The projects rely on [HoodLoader2](https://github.com/NicoHood/HoodLoader2) to g
 * [Install Serial drivers and Board Definitions](https://github.com/NicoHood/HoodLoader2/wiki/Software-Installation)
 * [Install HID project](https://github.com/NicoHood/HID/wiki/Installation)
 
-# :space_invader: :trackball: :space_invader:	:keyboard: :space_invader: :joystick: :space_invader: 	:computer_mouse: :space_invader:
 
